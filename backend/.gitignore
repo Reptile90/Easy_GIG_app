@@ -1,0 +1,12 @@
+# Cartelle virtual environment (pesanti e inutili online)
+venv/
+.venv/
+env/
+
+# File di cache di Python
+__pycache__/
+*.pyc
+
+# FILE CON PASSWORD (fondamentale!)
+.env
+.DS_Store
